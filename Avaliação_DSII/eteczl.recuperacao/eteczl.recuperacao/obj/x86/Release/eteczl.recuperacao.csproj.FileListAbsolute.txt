@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\bin\Release\eteczl.recuperacao.exe
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\bin\Release\eteczl.recuperacao.pdb
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.Form1.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.FrmCadCarros.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.FrmCadCli.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.FrmCadFunc.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.FrmPesquisaCar.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.FrmPesquisaCli.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.FrmPesquisaFunc.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.Properties.Resources.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.exe
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Release\eteczl.recuperacao.pdb

@@ -1,0 +1,28 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\bin\Debug\eteczl.recuperacao.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\bin\Debug\eteczl.recuperacao.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmCadCarros.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmCadCli.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmCadFunc.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmPesquisaCar.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmPesquisaCli.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmPesquisaFunc.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.exe
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.pdb
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\bin\Debug\eteczl.recuperacao.exe
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\bin\Debug\eteczl.recuperacao.pdb
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.Form1.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmCadCarros.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmCadCli.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmCadFunc.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmPesquisaCar.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmPesquisaCli.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.FrmPesquisaFunc.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.Properties.Resources.resources
+C:\Users\Aluno\Desktop\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Avaliação_DSII\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.exe
+C:\Users\Aluno\Desktop\Avaliação_DSII\eteczl.recuperacao\eteczl.recuperacao\obj\x86\Debug\eteczl.recuperacao.pdb
